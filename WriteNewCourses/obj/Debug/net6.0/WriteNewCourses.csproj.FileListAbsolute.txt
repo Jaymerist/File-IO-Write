@@ -1,0 +1,15 @@
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.csproj.AssemblyReference.cache
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.AssemblyInfoInputs.cache
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.AssemblyInfo.cs
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\bin\Debug\net6.0\WriteNewCourses.exe
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\bin\Debug\net6.0\WriteNewCourses.deps.json
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\bin\Debug\net6.0\WriteNewCourses.runtimeconfig.json
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\bin\Debug\net6.0\WriteNewCourses.dll
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\bin\Debug\net6.0\WriteNewCourses.pdb
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.dll
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\refint\WriteNewCourses.dll
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.pdb
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\WriteNewCourses.genruntimeconfig.cache
+C:\Users\mkamiss1.NAIT\source\repos\WriteNewCourses\obj\Debug\net6.0\ref\WriteNewCourses.dll
