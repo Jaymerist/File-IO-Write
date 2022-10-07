@@ -1,0 +1,15 @@
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\bin\Debug\net6.0\FileWrite-Medium.exe
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\bin\Debug\net6.0\FileWrite-Medium.deps.json
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\bin\Debug\net6.0\FileWrite-Medium.runtimeconfig.json
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\bin\Debug\net6.0\FileWrite-Medium.dll
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\bin\Debug\net6.0\FileWrite-Medium.pdb
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.csproj.AssemblyReference.cache
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.AssemblyInfoInputs.cache
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.AssemblyInfo.cs
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.dll
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\refint\FileWrite-Medium.dll
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.pdb
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\FileWrite-Medium.genruntimeconfig.cache
+C:\Users\mkamiss1.NAIT\Documents\C3\File-IO-main\FileWrite-Medium-Start\obj\Debug\net6.0\ref\FileWrite-Medium.dll
